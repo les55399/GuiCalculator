@@ -20,3 +20,7 @@
 
 ## 📂 Project Structure
 
+/C++-GUI-Calculator
+│
+├── CalculatorForm.cpp   # Contains the main form and all calculator logic
+└── Calculator.sln       # Visual Studio solution file to open and run the project
