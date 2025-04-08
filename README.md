@@ -1,0 +1,2 @@
+# GuiCalculator
+For mathematics lovers
